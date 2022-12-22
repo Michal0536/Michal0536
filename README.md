@@ -20,12 +20,12 @@ I'm an IT student at the Wroclaw WSB University, I'm starting my journey with Py
 
 ## 💻 What am i currently doing
 - Website monitors & discord bots 
-- Raffle tool for Naos
 - Tool for parcels with [@Rafał#6750](https://github.com/Ozowee)
-
+- Basics of Flet GUI
+  
 ## 🌱What am i currently learning
-- basics of GUI in EEL 
 - api services 
+- mongoDB services
 
 ## 📱 Socials
 <a href="https://t.me/xmichu838x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
