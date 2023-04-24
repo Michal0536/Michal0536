@@ -20,7 +20,7 @@ I'm an IT student at the Wroclaw WSB University, I'm starting my journey with Py
 
 ## 💻 What am i currently doing
 - Website monitors & discord bots 
-- Tool to track shoes inventory
+
   
 ## 🌱What am i currently learning
 - hosting website & API with flask
