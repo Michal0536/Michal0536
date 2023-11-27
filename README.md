@@ -20,12 +20,13 @@ I'm an IT student at the Wroclaw Merito University, I'm starting my journey with
 
 
 ## 💻 What am i currently doing
+- Backend for Start-up App
 - Website monitors & discord bots 
 
   
 ## 🌱What am i currently learning
-- hosting website & API with flask
-- mongoDB
+- OpenAi integration
+- Clean code
 
 ## 📱 Socials
 <a href="https://t.me/xmichu838x"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
