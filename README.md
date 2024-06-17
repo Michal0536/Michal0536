@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Michal!
 I'm an IT student at the Wroclaw Merito University, I'm starting my journey with Python and basic front-end websites. I have also done a C++ course on Nokia's program. 
 
+![Codewars](https://github.r2v.ch/codewars?user=Michal0536)
+
 ## 🛠️ Skills
 <a href='https://github.com/Michal0536/Michal0536'><img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Python'></a>
 <a href='https://github.com/Michal0536/Michal0536'><img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'></a>
@@ -16,7 +18,8 @@ I'm an IT student at the Wroclaw Merito University, I'm starting my journey with
 
 ## 💻 What am i currently doing
 - Monitoring & scraping websites
-- Spreadsheets Automations 
+- Spreadsheets Automations
+
 
   
 ## 🌱What am i currently learning
